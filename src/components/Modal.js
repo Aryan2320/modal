@@ -38,7 +38,7 @@ function Modal({onClose}) {
     }
 
     alert('Form submitted successfully.');
-    onClose();
+    
   };
 
   return (
